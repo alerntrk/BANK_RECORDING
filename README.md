@@ -1,2 +1,1 @@
-# BANK_RECORDING 
-ss
+beginner level project for my programming course
